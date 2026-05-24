@@ -17,7 +17,6 @@ Para traduzir conceitos qualitativos em dados quantitativos, foi aplicada a téc
 estetica_2d, mundo_aberto, narrativa_forte, dificuldade_alta e multiplayer. A lógica foi aplicada através da verificação de tags específicas dentro do conjunto de dados original, permitindo medir o impacto isolado de cada mecânica.
 
 Foram geradas visualizações complexas para validar as hipóteses de negócio:
-
 Distribuição de Notas (Boxplots): Utilizados para observar a variância e a consistência de cada atributo de design.
 
 Relação Popularidade vs. Nota: Um gráfico de dispersão interativo com escala logarítmica para identificar se jogos populares mantêm a qualidade crítica.
